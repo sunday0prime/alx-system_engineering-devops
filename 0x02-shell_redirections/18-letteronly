@@ -1,2 +1,3 @@
 #!/bin/bash
-egrep ^[[:alpha:]] /etc/shell/sshd_config
+egrep ^[[:alpha:]]
+/etc/sh/shd_config
